@@ -1,0 +1,12 @@
+<svg width="260" height="70" viewBox="0 0 260 70" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="70" rx="12" fill="#0F172A"/>
+  <text x="24" y="38" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont" 
+        font-size="26" font-weight="800" fill="#E5E7EB">
+    SG
+  </text>
+  <text x="80" y="38" font-family="Inter, system-ui, -apple-system, BlinkMacSystemFont" 
+        font-size="18" font-weight="600" fill="#A5B4FC">
+    Analytics
+  </text>
+  <line x1="24" y1="48" x2="210" y2="48" stroke="#4F46E5" stroke-width="2" stroke-linecap="round"/>
+</svg>
